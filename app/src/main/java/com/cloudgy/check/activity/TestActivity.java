@@ -7,6 +7,9 @@ import android.widget.Button;
 
 import com.cloudgy.check.R;
 
+/**
+ * siwangqishi  commit -----1  Add >_< 死亡骑士
+ */
 public class TestActivity extends BaseActivity {
 
     private Button button1;
