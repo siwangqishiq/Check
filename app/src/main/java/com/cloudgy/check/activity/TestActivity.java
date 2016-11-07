@@ -9,6 +9,8 @@ import com.cloudgy.check.R;
 
 /**
  * siwangqishi  commit -----1  Add >_< 死亡骑士
+ *
+ * 我也来加一个commit  测试一下
  */
 public class TestActivity extends BaseActivity {
 
