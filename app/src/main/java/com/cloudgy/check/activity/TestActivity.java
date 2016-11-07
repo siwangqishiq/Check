@@ -16,6 +16,7 @@ public class TestActivity extends BaseActivity {
 
     private Button button1;
     private Button button2;
+    private Button button3;
     private PowerManager powerManager;
     private PowerManager.WakeLock wakeLock;
     private int field = 0x00000020;
